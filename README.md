@@ -47,11 +47,11 @@ php artisan migrate
 ## 3. Resultados Visibles (Capturas de Pantalla)
 A continuación se evidencia el funcionamiento del sistema de Autenticación con Bootstrap:
 
-![Laravel](Img\Capture_laravel.png)
+![Laravel](Img/Capture_laravel.png)
 
-![Vista de Registro (Register)](Img\Capture_register.png)
+![Vista de Registro](Img/Capture_register.png)
 
-![Vista de Inicio de Sesión (Login)](Img\Captura_login.png)
+![Vista de Login](Img/Captura_login.png)
 
 ## 🗄️4. Configuración de la Base de Datos
 
